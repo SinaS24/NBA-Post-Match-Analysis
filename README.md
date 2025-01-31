@@ -2,7 +2,7 @@
 
 This project is a deep dive into an NBA post-match analysis for Game ID: 0042300173 (Dallas Mavericks vs LA Clippers). The analysis provides key insights into player performance, team strategy, and game dynamics, offering a compelling look at how data can enhance understanding of the game play, and provide direction as to where to focus your training and game tape analysis on. 
 
-🚀 Objectives:
+Objectives:
 
 1. Break down the performance metrics of players and teams.
 2. Highlight game trends, and player trends and performances.
@@ -10,9 +10,7 @@ This project is a deep dive into an NBA post-match analysis for Game ID: 0042300
 4. Provide actionable insights for improving team strategy or evaluating player impact.
 
 
-📂 Project Structure:
-
-The project is organised as follows:
+Structure:
 
 ├── data/                 # Contains raw and processed game data
 ├── notebooks/            # Jupyter notebooks for data analysis
@@ -21,7 +19,7 @@ The project is organised as follows:
 ├── README.md             # Project documentation
 
 
-🔍 Analysis Highlights:
+Analysis highlights:
 
 - Momentum Shifts: The Mavericks gained control mid-game, retaining a steady lead thereafter.
 - Turnover Impact: Clippers’ turnovers translated into significant scoring opportunities for the Mavericks.
@@ -30,7 +28,7 @@ The project is organised as follows:
 
 
 
-📊 Tools and Technologies Used:
+Tools and technologies used:
 
 - Python: Primary programming language for analysis.
 - Pandas: Data manipulation and preprocessing.
@@ -39,28 +37,26 @@ The project is organised as follows:
 - Jupyter Notebook: Interactive analysis and reporting.
 
 
-📷 Visualizations:
+Visualisations:
 
 - Shot charts for individual players.
 - Horizontal bar charts for plus-minus efficiency.
 - Line plots tracking momentum shifts during the game.
 
 
-🔗 Data Sources:
+Data sources:
 
 The data for this project was sourced from the official NBA Stats API for Game ID 0042300173. Additional player and team data were processed for advanced analytics.
 
 
-💡 Insights & Takeaways
+Insights & takeaways
 
 - The Mavericks' starting 5 superior scoring efficiency gave them the edge over the Clippers.
 - Turnovers were a decisive factor, with Dallas capitalising for 26 points compared to the Clippers’ 14.
 - Norman Powell’s standout performance was insufficient to offset their starters’ inefficiency.
 
 
-📧 Contact
-
-If you have any questions feel free to reach out:
+Contact
 
 Name: Sina Sangsari
 Email: sina.sangsari@gmail.com
