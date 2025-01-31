@@ -1,6 +1,6 @@
 # NBA-Post-Match-Analysis_0042300173
 
-This project is a deep dive into an NBA post-match analysis for Game ID: 0042300173 (Dallas Mavericks vs LA Clippers). The analysis provides key insights into player performance, team strategy, and game dynamics, offering a compelling look at how data can enhance understanding of basketball.
+This project is a deep dive into an NBA post-match analysis for Game ID: 0042300173 (Dallas Mavericks vs LA Clippers). The analysis provides key insights into player performance, team strategy, and game dynamics, offering a compelling look at how data can enhance understanding of the game play, and provide direction as to where to focus your training and game tape analysis on. 
 
 🚀 Objectives:
 
