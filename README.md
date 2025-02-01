@@ -41,7 +41,7 @@ This analysis highlights key performance trends that shaped the game and influen
   
 * The Clippers struggled to regain momentum after falling behind, showcasing potential issues in their in-game adjustments.
 
-![Momentum](Score progression.png)
+![Momentum](Score_progression.png)
 
 ### Turnover Impact
 
@@ -75,7 +75,7 @@ This analysis highlights key performance trends that shaped the game and influen
   
 * Despite rebounding advantages, the Clippers failed to generate additional offensive efficiency from it.
 
-![Rebounds](Rebounding battle.png)
+![Rebounds](Rebounding_battle.png) 
 
 
 
