@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 
 The project leverages Python for data processing, visualisation, and statistical analysis.
 
-## SQL & Dashboard Links
+## Python
 
 - The **Python queries** used to inspect and clean the data for this analysis can be found **[here](https://raw.githubusercontent.com/SinaS24/NBA-Post-Match-Analysis/refs/heads/main/NBA%20Post%20Match%20Analysis_0042300173.ipynb)**.  
 
